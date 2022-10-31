@@ -5,3 +5,4 @@
 - Library Python -
 - pandas
 - smtplib
+- email.message
