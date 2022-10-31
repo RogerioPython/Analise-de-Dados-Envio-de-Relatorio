@@ -10,3 +10,9 @@
 
 IDE Utilizada
 - Jupyter Notebook - Anaconda
+
+<div>
+ <p>
+  <img src="https://ibb.co/7yfbF6M" >
+ </p>
+ </div>
