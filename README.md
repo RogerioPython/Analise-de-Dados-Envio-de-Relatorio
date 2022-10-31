@@ -6,3 +6,6 @@
 - pandas
 - smtplib
 - email.message
+
+IDE Utilizada
+- Jupyter Notebook - Anaconda
