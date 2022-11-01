@@ -23,6 +23,6 @@ IDE Utilizada
 
 <div>
  <p>
-  <img src='https://ibb.co/7yfbF6M'>
+  <img src='https://cdn.discordapp.com/attachments/621758620668788773/1036806479988129892/envio_email-1.gif'>
  </p>
  </div>
