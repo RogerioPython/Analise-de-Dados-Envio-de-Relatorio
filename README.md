@@ -22,7 +22,5 @@ IDE Utilizada
 - Jupyter Notebook - Anaconda
 
 <div>
- <p>
-  <img src='https://cdn.discordapp.com/attachments/621758620668788773/1036806479988129892/envio_email-1.gif'>
- </p>
+ <p><img src='https://cdn.discordapp.com/attachments/621758620668788773/1036806479988129892/envio_email-1.gif'></p>
  </div>
