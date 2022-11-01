@@ -21,6 +21,4 @@
 IDE Utilizada
 - Jupyter Notebook - Anaconda
 
-<div>
- <p><img src='https://cdn.discordapp.com/attachments/621758620668788773/1036806479988129892/envio_email-1.gif'></p>
- </div>
+![relatorio-de-vendas](https://user-images.githubusercontent.com/35857120/199230481-6804f9bc-6925-4439-90a5-57776656c7db.PNG)
