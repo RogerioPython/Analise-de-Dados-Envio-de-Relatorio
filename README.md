@@ -1,9 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioPython&count_private=true&show_icons=true&theme=dark)](https://github.com/RogerioPython/github-readme-stats)
 
 <div style="display: inline_block;"><br>
+<img style="width:40px;height:40px;" src="https://user-images.githubusercontent.com/35857120/199576541-0f4f1436-5e36-4aba-acad-bcb37c522788.gif" />
 <img style="width:40px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img style="width:40px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img style="width:40px;height:40px;" src="https://user-images.githubusercontent.com/35857120/199576541-0f4f1436-5e36-4aba-acad-bcb37c522788.gif" />
 <img style="width:40px;height:40px;" src="https://user-images.githubusercontent.com/35857120/199579762-db72ab8b-3619-4512-bdd3-7b58d2c69217.png" />
 <img style="width:40px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
 <img style="width:40px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
