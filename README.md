@@ -22,7 +22,7 @@
 - Calcular o Ticket-Médio por cada Loja
 - Criar Relatório e Enviar por email para a Diretoria
 ## 
-# Tecnologias usadas:
+# Tecnologias Utilizadas:
 - Library Python -
 - pandas
 - smtplib
