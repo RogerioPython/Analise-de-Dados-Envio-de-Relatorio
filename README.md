@@ -11,7 +11,7 @@
 # Automação Análise de Dados e Envio de Relatório
  Objetivo do Projeto: 
 - Analisar a Base de Dados de todas as Lojas de um Grupo Corporativo no Brasil, Tratar os Dados, Enviar Relatório por email de Faturamento, Quantidade de Vendas, Valor do Ticket Médio de Vendas por Loja.
-
+##
 # Lógica de Programação Utilizada:
 
 - Importar a Base de Dados
@@ -21,14 +21,14 @@
 - Calcular Quantidade de Produtos Vendidos por Loja
 - Calcular o Ticket-Médio por cada Loja
 - Criar Relatório e Enviar por email para a Diretoria
- 
- Tecnologias usadas:
+## 
+# Tecnologias usadas:
 - Library Python -
 - pandas
 - smtplib
 - email.message
 
-IDE Utilizada
+IDE Utilizada:
 - Jupyter Notebook - Anaconda
 
 ![relatorio-de-vendas](https://user-images.githubusercontent.com/35857120/199230481-6804f9bc-6925-4439-90a5-57776656c7db.PNG)
