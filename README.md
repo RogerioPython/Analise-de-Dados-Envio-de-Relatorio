@@ -11,6 +11,16 @@
 # Automação Análise de Dados e Envio de Relatório
  Objetivo do Projeto: 
 - Analisar a Base de Dados de todas as Lojas de um Grupo Corporativo no Brasil, Tratar os Dados, Enviar Relatório por email de Faturamento, Quantidade de Vendas, Valor do Ticket Médio de Vendas por Loja.
+
+# Lógica de Programação Utilizada:
+
+- Importar a Base de Dados
+- Visualizar a Base de Dados
+- Tratar os Dados, Ajustar a Base de Dados
+- Calcular o Faturamento por loja
+- Calcular Quantidade de Produtos Vendidos por Loja
+- Calcular o Ticket-Médio por cada Loja
+- Criar Relatório e Enviar por email para a Diretoria
  
  Tecnologias usadas:
 - Library Python -
