@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioPython&count_private=true&show_icons=true&theme=dark)](https://github.com/RogerioPython/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioPython&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/RogerioPython/github-readme-stats)
 
 <div style="display: inline_block;"><br>
 <img style="width:40px;height:40px;" src="https://user-images.githubusercontent.com/35857120/199576541-0f4f1436-5e36-4aba-acad-bcb37c522788.gif" />
